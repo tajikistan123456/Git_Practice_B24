@@ -8,4 +8,7 @@ public class four {
     public static void  m(String n){
 
     }
+    public static void m(int p){
+        System.out.println("dog");
+    }
 }
